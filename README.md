@@ -33,8 +33,6 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/Grade-Calculator-Java.git
-cd Grade-Calculator-Java
 Compile and run:
 
 bash
